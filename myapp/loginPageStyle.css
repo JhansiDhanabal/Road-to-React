@@ -1,0 +1,10 @@
+.login-page{
+    display:flex;
+}
+.login-background{
+    height: 100vh;
+    flex-basis: 75%;
+    background-image: url('../resources/resource/login-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

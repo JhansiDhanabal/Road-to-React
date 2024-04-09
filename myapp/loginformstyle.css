@@ -1,0 +1,17 @@
+.login-form-container{
+    justify-content: center;
+    flex-basis: 25%;
+    padding:5%;
+    align-items: center;
+}
+.app-logo{
+    text-align: center;
+}
+.forgot-password a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.forgot-password{
+    font-size: 12px;
+}
